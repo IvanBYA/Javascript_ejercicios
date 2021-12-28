@@ -1,4 +1,5 @@
 # Javascript_ejercicios
 
-Ejercicios que realice al terminar el curso de Javascript.
+Ejercicios que realicé al terminar el curso de Javascript.
 
+Autor: IvanBYA
